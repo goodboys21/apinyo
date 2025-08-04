@@ -2,8 +2,8 @@ import axios from "axios";
 import FormData from "form-data";
 import Busboy from "busboy";
 
-let sessionToken = "63a44a1aa9ba3ad5fe878421b9993a6d883f5e005905e38d29d2bbcca17af54b3303742e8983dba1bd5f2702fe6b86f55239c4e7851583a585cfbb5680e80149a8f73083bbddc9bd";
-const refreshToken = "63a44a1aa9ba3ad5fe878421b9993a6d883f5e005905e38d29d2bbcca17af54b3303742e8983dba1bd5f2702fe6b86f55239c4e7851583a585cfbb5680e80149a8f73083bbddc9bd";
+let sessionToken = "1ec24076de0975b459ac50bc6f8cde56936eab3ccd3a5f4d6b3f0307eb2764136cdb2dd4f4f73391ceaabc9293c226b045832bdd1c3297169912e6f13955d1a4692cf4406ed7d742";
+const refreshToken = "1ec24076de0975b459ac50bc6f8cde56936eab3ccd3a5f4d6b3f0307eb2764136cdb2dd4f4f73391ceaabc9293c226b045832bdd1c3297169912e6f13955d1a4692cf4406ed7d742";
 
 let lastRefresh = 0;
 
